@@ -1,2 +1,2 @@
-# bilog-fe-challenge
-Mocked API for front-end challenge
+# Bilog - Front-end Challenge
+Here is a mocked API for the front-end challenge.
