@@ -1,11 +1,121 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id_agenda": -1,
+    "id_paciente": null,
+    "fecha": "2021-09-16T00:00:00",
+    "hora": "10:00",
+    "ape_nom": null
+  },
+  {
+    "id_agenda": -1,
+    "id_paciente": null,
+    "fecha": "2021-09-16T00:00:00",
+    "hora": "10:30",
+    "ape_nom": null
+  },
+  {
+    "id_agenda": 6300,
+    "id_paciente": 87,
+    "fecha": "2021-09-16T00:00:00",
+    "hora": "11:00",
+    "ape_nom": "PERINO SANTIAGO"
+  },
+  {
+    "id_agenda": -1,
+    "id_paciente": null,
+    "fecha": "2021-09-16T00:00:00",
+    "hora": "11:30",
+    "ape_nom": null
+  },
+  {
+    "id_agenda": 6310,
+    "id_paciente": 87,
+    "fecha": "2021-09-16T00:00:00",
+    "hora": "12:00",
+    "ape_nom": "FERNANDEZ EMILIANO"
+  },
+  {
+    "id_agenda": -1,
+    "id_paciente": null,
+    "fecha": "2021-09-16T00:00:00",
+    "hora": "12:30",
+    "ape_nom": null
+  },
+  {
+    "id_agenda": 6320,
+    "id_paciente": 87,
+    "fecha": "2021-09-16T00:00:00",
+    "hora": "13:00",
+    "ape_nom": "ALEGRE MORENA"
+  },
+  {
+    "id_agenda": 6330,
+    "id_paciente": 87,
+    "fecha": "2021-09-16T00:00:00",
+    "hora": "13:30",
+    "ape_nom": "VELLBACH KAREM"
+  },
+  {
+    "id_agenda": -1,
+    "id_paciente": null,
+    "fecha": "2021-09-16T00:00:00",
+    "hora": "14:00",
+    "ape_nom": null
+  },
+  {
+    "id_agenda": 6340,
+    "id_paciente": 87,
+    "fecha": "2021-09-16T00:00:00",
+    "hora": "14:30",
+    "ape_nom": "FANTINI CELESTE"
+  },
+  {
+    "id_agenda": -1,
+    "id_paciente": null,
+    "fecha": "2021-09-16T00:00:00",
+    "hora": "15:00",
+    "ape_nom": null
+  },
+  {
+    "id_agenda": 6350,
+    "id_paciente": 372,
+    "fecha": "2021-09-16T00:00:00",
+    "hora": "15:30",
+    "ape_nom": "VECCHIETTI DELFINA"
+  },
+  {
+    "id_agenda": -1,
+    "id_paciente": null,
+    "fecha": "2021-09-16T00:00:00",
+    "hora": "16:00",
+    "ape_nom": null
+  },
+  {
+    "id_agenda": -1,
+    "id_paciente": null,
+    "fecha": "2021-09-16T00:00:00",
+    "hora": "16:30",
+    "ape_nom": null
+  },
+  {
+    "id_agenda": -1,
+    "id_paciente": null,
+    "fecha": "2021-09-16T00:00:00",
+    "hora": "17:00",
+    "ape_nom": null
+  },
+  {
+    "id_agenda": -1,
+    "id_paciente": null,
+    "fecha": "2021-09-16T00:00:00",
+    "hora": "17:30",
+    "ape_nom": null
+  },
+  {
+    "id_agenda": -1,
+    "id_paciente": null,
+    "fecha": "2021-09-16T00:00:00",
+    "hora": "18:00",
+    "ape_nom": null
   }
-}
+]
